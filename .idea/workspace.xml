@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e448f34b-e08f-48eb-8be7-c76e465cd101" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/login.java" afterDir="false" />
-    </list>
+    <list default="true" id="e448f34b-e08f-48eb-8be7-c76e465cd101" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,10 +60,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1587674393554">
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1587753497418">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1587674393554" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1587753497418" />
     <state x="436" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1587751922640">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
