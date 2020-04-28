@@ -6,5 +6,8 @@ public class HappyBirthday {
         
         //Now I am just checking if my changes gonna appear in IntelliJ
         //I am learning GIT
+        
+        //what to use git fetch and git merge this time
+        System.out.println("I want some presents");
     }
 }
